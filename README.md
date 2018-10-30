@@ -2,7 +2,7 @@
 Want to control your microcontroller's power? This may be the answer.
 
 **Sponsored by www.PCBWay.com PCB** Prototype the Easy Way  
-We are giving a free prototype for Christmas PCB and will chose one most popular design to be made 1,000 pcs to give away randomly as PCBWay 2018 Christmas Gift.
+We are giving a free prototype for Christmas PCB and will choose one most popular design to be made 1,000 pcs to give away randomly as PCBWay 2018 Christmas Gift.
 
 # See video #125 at https://www.youtube.com/ralphbacon  
 (Direct link to video: )
@@ -24,7 +24,7 @@ There are some caveats covered in the video, but here's some extra information y
 
 1. The minimum delay/switch on period is 100mS ±0.6%   
 2. The maximum delay/switch on period is 2 hours ±0.6% (7200 seconds)  
-3. To get *precise* timings you will need to parallel two 1% tolerance reistors (the datahsheet shows what values)  
+3. To get *precise* timings you will need to parallel two 1% tolerance resistors (the datahsheet shows what values)  
 4. The "DONE" signal back to the TPL5110 from your microcontroller is 100mS minimum  
 5. The TPL5110 is *only* available as a surface mount device (and it is **tiny**)  
 6. The TPL5110 expects to drive a P-channel MOSFET that switches the power line to the µController. HIGH is OFF and LOW is ON.  
