@@ -5,7 +5,7 @@ Want to control your microcontroller's power? This may be the answer.
 We are giving a free prototype for Christmas PCB and will choose one most popular design to be made 1,000 pcs to give away randomly as PCBWay 2018 Christmas Gift.
 
 # See video #125 at https://www.youtube.com/ralphbacon  
-(Direct link to video: )
+(Direct link to video: https://youtu.be/Qms_iEL7Uqg)
 
 In a previous video #122 we explored switching off an Arduino (or other µcontoller) by using the device itself. 
 
