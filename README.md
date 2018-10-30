@@ -20,6 +20,9 @@ https://lowpowerlab.com/shop/product/147
 Aliexpress source of bare SMD chip (lot of 10):  
 https://www.aliexpress.com/item/10pcs-lot-TPL5110DDCR-TPL5110-ZALX-IC-6-SOT/32914309796.html
 
+TPL5110 Data Sheet
+http://www.ti.com/lit/ds/symlink/tpl5110.pdf  
+
 There are some caveats covered in the video, but here's some extra information you may find useful:
 
 1. The minimum delay/switch on period is 100mS ±0.6%   
