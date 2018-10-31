@@ -6,7 +6,7 @@ We are giving a free prototype for Christmas PCB and will choose one most popula
 
 **PCBWay Shopping Festival Nov-Dec 2018**  
 Large Discounts, Coupon & Free Prototyping Christmas PCB  
-Free prototyping for Christams PCB from October 25 to December 10  
+Free prototyping for Christmas PCB from October 25 to December 10  
 Happy Halloween large discount or coupon from October 30 to November 1  
 https://www.pcbway.com/PCBWayShoppingFestival2018.aspx?t=2
 
