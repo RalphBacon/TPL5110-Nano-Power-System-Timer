@@ -4,6 +4,10 @@ Want to control your microcontroller's power? This may be the answer.
 **Sponsored by www.PCBWay.com PCB** Prototype the Easy Way  
 We are giving a free prototype for Christmas PCB and will choose one most popular design to be made 1,000 pcs to give away randomly as PCBWay 2018 Christmas Gift.
 
+**PCBWay Shopping Festival 2018**  
+Large Discounts, Coupon & Free Prototyping Christmas PCB  
+https://www.pcbway.com/PCBWayShoppingFestival2018.aspx?t=2
+
 # See video #125 at https://www.youtube.com/ralphbacon  
 (Direct link to video: https://youtu.be/Qms_iEL7Uqg)
 
