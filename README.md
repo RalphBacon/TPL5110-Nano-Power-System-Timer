@@ -1,7 +1,7 @@
 # TPL5110 Nano Power System Timer
 Want to control your microcontroller's power? This may be the answer.
 
-**Sponsored by www.PCBWay.com PCB** Prototype the Easy Way  
+**Sponsored by https://www.pcbway.com** PCB Prototype the Easy Way  
 We are giving a free prototype for Christmas PCB and will choose one most popular design to be made 1,000 pcs to give away randomly as PCBWay 2018 Christmas Gift.
 
 **PCBWay Shopping Festival Nov-Dec 2018**  
